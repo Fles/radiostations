@@ -9,6 +9,9 @@ http://scfire-mtc-aa02.stream.aol.com:80/stream/1015
 http://stream2.friskyradio.com:8000/frisky_mp3_hi
 http://chill.friskyradio.com/friskychill_mp3_high
 
+## Vibration (Brussels)
+http://vibrationbelgique.ice.infomaniak.ch/vibrationbelgique-high
+
 ## WWOZ 
 http://wwoz-sc.streamguys.com/wwoz-hi.mp3
 
