@@ -1,40 +1,14 @@
-# radiostations
-List of radio stations links
-
-## Radio Solar
-https://tunein.com/radio/Rdio-Solar---94-FM-Albufeira-s303676/
-
-## FRISKY FM
-http://scfire-mtc-aa02.stream.aol.com:80/stream/1015
-http://stream2.friskyradio.com:8000/frisky_mp3_hi
-http://chill.friskyradio.com/friskychill_mp3_high
-
-## Vibration (Brussels)
-http://vibrationbelgique.ice.infomaniak.ch/vibrationbelgique-high
-
-## WWOZ 
-http://wwoz-sc.streamguys.com/wwoz-hi.mp3
-
-## DEEP HOUSE LOUNGE *Shoutcase
-http://62.75.171.171:9304/;stream/
-
-## SOMA FM
-http://ice.somafm.com/spacestation
-
-## KANSAS CITY ONLINE RADIO
-http://208.53.158.48:9148/;stream/
-
-## OGG LOUNGE
-http://66.165.171.58:8000/;stream/
-
-## URE JAZZ RADIO
-http://71.125.12.37:8000/;stream/
-
-## 730AM
-http://91.121.16.169:8654/;stream/
-
-## ABC JAZZ
-http://listen.radionomy.com/abc-jazz
-
-# SEARCH ENGINE:
-https://www.xatworld.com/radio-search/
+# Stations:
+## [Radio Brac](http://www.radiolive.biz/webplayer/radio-brac/)
+## [SLAM!](https://player.slam.nl/?stream=slam&brand=slam)
+## [stubru](https://radioplus.be/#/stubru/herbeluister)
+## [RADIO 808](https://radio808.com/player/)
+## [FRISKY FM](https://www.friskyradio.com/)
+## [Student](http://onlineradiobox.com/hr/student/player/?cs=hr.student&played=1)
+## [Vibration](http://vibrationbelgique.ice.infomaniak.ch/vibrationbelgique-high)
+## [FG Underground](https://onlineradiobox.com/fr/radiofgunder/?cs=fr.radiofgunder&played=1&lang=en)
+## [Radio Nula](https://radionula.com/)
+## [Radio Solar](http://radioonline.com.pt/embed/solar-fm/)
+## [YAMMAT](https://yammat.fm/popup/)
+## [phever](https://www.phever.ie/)
+## [FM4](https://fm4.orf.at/player/live)
