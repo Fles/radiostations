@@ -17,3 +17,4 @@ List of radio stations with live streaming (which are cool):
 ## [Radio Solar](http://radioonline.com.pt/embed/solar-fm/)
 ## [rekt](https://rekt.network/?station=rekt#Station)
 ## [phever](https://www.phever.ie/)
+## [classic21](https://www.rtbf.be/radio/liveradio/classic21)
