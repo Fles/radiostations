@@ -18,3 +18,4 @@ List of radio stations with live streaming (which are cool):
 ## [rekt](https://rekt.network/?station=rekt#Station)
 ## [phever](https://www.phever.ie/)
 ## [classic21](https://www.rtbf.be/radio/liveradio/classic21)
+## [di.fm](https://www.di.fm/progressive)
