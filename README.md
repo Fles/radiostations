@@ -19,8 +19,8 @@ List of radio stations with live streaming (which are cool):
 ## REST
 ### [FRISKY FM](https://www.friskyradio.com/)
 ### [FM4](https://fm4.orf.at/player/live)
-### [FG Underground](https://onlineradiobox.com/fr/radiofgunder/?cs=fr.radiofgunder&played=1&lang=en)
 ### [Radio Solar](http://radioonline.com.pt/embed/solar-fm/)
+### [FG Underground](https://onlineradiobox.com/fr/radiofgunder/?cs=fr.radiofgunder&played=1&lang=en)
 ### [rekt](https://rekt.network/?station=rekt#Station)
 ### [phever](https://www.phever.ie/)
 ### [di.fm](https://www.di.fm/progressive)
